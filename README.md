@@ -69,13 +69,6 @@ Indicators that appear in several papers (economy-wide emissions, the generation
 
 **Net-zero residual.** Economy-wide GHG emissions in NZ 2060 in 2060 are 1.3 Mt CO₂e in the scenario database (0.2% of 2015 emissions). The published figure data round this to zero. The figures here plot the database value.
 
-## Figures not reproduced
-
-- Model schematics: ESR Fig. 1; DP30 Fig. 1; DP31 Figs. 1–2; DP01 Figs. 1–3; DP07 Figs. 1–2; DP18 Figs. 1–6.
-- ESR Fig. 3, the emission-reduction wedges by measure over 2015–2060. It needs annual output from the single-measure sensitivity runs, which is not archived here. Its 2060 values are reproduced as DP30 Fig. 3.
-
-The published discussion papers were typeset by a designer. The figures here reproduce their content and values in a common ggplot style rather than their exact visual design.
-
 ## Citation
 
 Please cite the publication whose figures you use (table above) and this repository.
