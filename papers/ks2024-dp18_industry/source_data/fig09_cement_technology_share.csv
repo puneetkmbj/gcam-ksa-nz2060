@@ -1,0 +1,37 @@
+"scenario","technology","year","value","share"
+"Current Policy","Cement",2020,1,100
+"Current Policy","Cement",2025,1,100
+"Current Policy","Cement",2030,1,100
+"Current Policy","Cement",2035,1,100
+"Current Policy","Cement",2040,1,100
+"Current Policy","Cement",2045,1,100
+"Current Policy","Cement",2050,1,100
+"Current Policy","Cement",2055,1,100
+"Current Policy","Cement",2060,1,100
+"Current Policy","Cement (w/CCS)",2020,0,0
+"Current Policy","Cement (w/CCS)",2025,0,0
+"Current Policy","Cement (w/CCS)",2030,0,0
+"Current Policy","Cement (w/CCS)",2035,0,0
+"Current Policy","Cement (w/CCS)",2040,0,0
+"Current Policy","Cement (w/CCS)",2045,0,0
+"Current Policy","Cement (w/CCS)",2050,0,0
+"Current Policy","Cement (w/CCS)",2055,0,0
+"Current Policy","Cement (w/CCS)",2060,0,0
+"NZ 2060","Cement",2020,1,100
+"NZ 2060","Cement",2025,1,100
+"NZ 2060","Cement",2030,0.999147,99.9147
+"NZ 2060","Cement",2035,0.898463,89.8463
+"NZ 2060","Cement",2040,0.521629,52.1629
+"NZ 2060","Cement",2045,0.314186,31.4186
+"NZ 2060","Cement",2050,0.191331,19.1331
+"NZ 2060","Cement",2055,0.0935205,9.35205
+"NZ 2060","Cement",2060,0.0423862,4.23862
+"NZ 2060","Cement (w/CCS)",2020,0,0
+"NZ 2060","Cement (w/CCS)",2025,0,0
+"NZ 2060","Cement (w/CCS)",2030,0.000852777,0.0852777
+"NZ 2060","Cement (w/CCS)",2035,0.101537,10.1537
+"NZ 2060","Cement (w/CCS)",2040,0.478371,47.8371
+"NZ 2060","Cement (w/CCS)",2045,0.685814,68.5814
+"NZ 2060","Cement (w/CCS)",2050,0.808669,80.8669
+"NZ 2060","Cement (w/CCS)",2055,0.90648,90.648
+"NZ 2060","Cement (w/CCS)",2060,0.957614,95.7614

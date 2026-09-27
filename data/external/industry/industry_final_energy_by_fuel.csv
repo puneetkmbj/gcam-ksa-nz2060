@@ -1,0 +1,104 @@
+Units,scenario,region,agg_fuel,year,value
+EJ,cur_policy,Saudi Arabia,electricity,2020,0.214775652
+EJ,cur_policy,Saudi Arabia,electricity,2025,0.251489384691
+EJ,cur_policy,Saudi Arabia,electricity,2030,0.292107829586
+EJ,cur_policy,Saudi Arabia,electricity,2035,0.3548532984697
+EJ,cur_policy,Saudi Arabia,electricity,2040,0.4226221042388
+EJ,cur_policy,Saudi Arabia,electricity,2045,0.48295412558
+EJ,cur_policy,Saudi Arabia,electricity,2050,0.53910077966
+EJ,cur_policy,Saudi Arabia,electricity,2055,0.592387361793
+EJ,cur_policy,Saudi Arabia,electricity,2060,0.64177031432
+EJ,cur_policy,Saudi Arabia,gas,2020,0.92751232427
+EJ,cur_policy,Saudi Arabia,gas,2025,1.06377605388
+EJ,cur_policy,Saudi Arabia,gas,2030,1.19248007941
+EJ,cur_policy,Saudi Arabia,gas,2035,1.33003105396
+EJ,cur_policy,Saudi Arabia,gas,2040,1.49147687708
+EJ,cur_policy,Saudi Arabia,gas,2045,1.6571727498
+EJ,cur_policy,Saudi Arabia,gas,2050,1.812330311246
+EJ,cur_policy,Saudi Arabia,gas,2055,1.9429076706113
+EJ,cur_policy,Saudi Arabia,gas,2060,2.045716727494
+EJ,cur_policy,Saudi Arabia,gas CCS,2020,1.33109e-09
+EJ,cur_policy,Saudi Arabia,gas CCS,2025,1.2321397e-08
+EJ,cur_policy,Saudi Arabia,gas CCS,2030,3.7867402e-08
+EJ,cur_policy,Saudi Arabia,gas CCS,2035,9.6891977e-08
+EJ,cur_policy,Saudi Arabia,gas CCS,2040,1.72417492e-07
+EJ,cur_policy,Saudi Arabia,gas CCS,2045,2.44450076e-07
+EJ,cur_policy,Saudi Arabia,gas CCS,2050,3.3269863e-07
+EJ,cur_policy,Saudi Arabia,gas CCS,2055,4.11576411e-07
+EJ,cur_policy,Saudi Arabia,gas CCS,2060,4.76955785e-07
+EJ,cur_policy,Saudi Arabia,hydrogen,2025,0.002164184593
+EJ,cur_policy,Saudi Arabia,hydrogen,2030,0.009911144552
+EJ,cur_policy,Saudi Arabia,hydrogen,2035,0.022817456782
+EJ,cur_policy,Saudi Arabia,hydrogen,2040,0.0380925347621
+EJ,cur_policy,Saudi Arabia,hydrogen,2045,0.052293898754
+EJ,cur_policy,Saudi Arabia,hydrogen,2050,0.06842121783300001
+EJ,cur_policy,Saudi Arabia,hydrogen,2055,0.088571547929
+EJ,cur_policy,Saudi Arabia,hydrogen,2060,0.1092546431459
+EJ,cur_policy,Saudi Arabia,refined liquids,2020,1.32514694083
+EJ,cur_policy,Saudi Arabia,refined liquids,2025,1.48025418791
+EJ,cur_policy,Saudi Arabia,refined liquids,2030,1.58702053941
+EJ,cur_policy,Saudi Arabia,refined liquids,2035,1.72597288972
+EJ,cur_policy,Saudi Arabia,refined liquids,2040,1.850213203079989
+EJ,cur_policy,Saudi Arabia,refined liquids,2045,1.97788450891
+EJ,cur_policy,Saudi Arabia,refined liquids,2050,2.10206579067
+EJ,cur_policy,Saudi Arabia,refined liquids,2055,2.22046520784999
+EJ,cur_policy,Saudi Arabia,refined liquids,2060,2.337827942010001
+EJ,cur_policy,Saudi Arabia,refined liquids CCS,2030,1.38812e-10
+EJ,cur_policy,Saudi Arabia,refined liquids CCS,2035,3.30436e-10
+EJ,cur_policy,Saudi Arabia,refined liquids CCS,2040,4.97674e-10
+EJ,cur_policy,Saudi Arabia,refined liquids CCS,2045,5.76915e-10
+EJ,cur_policy,Saudi Arabia,refined liquids CCS,2050,7.28396e-10
+EJ,cur_policy,Saudi Arabia,refined liquids CCS,2055,8.20712e-10
+EJ,cur_policy,Saudi Arabia,refined liquids CCS,2060,8.81505e-10
+EJ,nz_2060,Saudi Arabia,electricity,2020,0.215150424
+EJ,nz_2060,Saudi Arabia,electricity,2025,0.2515268650836
+EJ,nz_2060,Saudi Arabia,electricity,2030,0.29286244031
+EJ,nz_2060,Saudi Arabia,electricity,2035,0.3690833190589
+EJ,nz_2060,Saudi Arabia,electricity,2040,0.5284476094173
+EJ,nz_2060,Saudi Arabia,electricity,2045,0.8144005168087001
+EJ,nz_2060,Saudi Arabia,electricity,2050,1.2039650684284
+EJ,nz_2060,Saudi Arabia,electricity,2055,1.5592839062358
+EJ,nz_2060,Saudi Arabia,electricity,2060,1.9603161157432
+EJ,nz_2060,Saudi Arabia,gas,2020,0.92769557676
+EJ,nz_2060,Saudi Arabia,gas,2025,1.05773710942
+EJ,nz_2060,Saudi Arabia,gas,2030,1.17030664179
+EJ,nz_2060,Saudi Arabia,gas,2035,1.19033272315
+EJ,nz_2060,Saudi Arabia,gas,2040,1.1531728058
+EJ,nz_2060,Saudi Arabia,gas,2045,1.15340920848
+EJ,nz_2060,Saudi Arabia,gas,2050,1.167857217334
+EJ,nz_2060,Saudi Arabia,gas,2055,1.1517460901967
+EJ,nz_2060,Saudi Arabia,gas,2060,1.1134099456164
+EJ,nz_2060,Saudi Arabia,gas CCS,2020,1.33158e-09
+EJ,nz_2060,Saudi Arabia,gas CCS,2025,0.00511691785695
+EJ,nz_2060,Saudi Arabia,gas CCS,2030,0.01844442673843
+EJ,nz_2060,Saudi Arabia,gas CCS,2035,0.11807375492867
+EJ,nz_2060,Saudi Arabia,gas CCS,2040,0.309954755215792
+EJ,nz_2060,Saudi Arabia,gas CCS,2045,0.6986561990729151
+EJ,nz_2060,Saudi Arabia,gas CCS,2050,1.13119842457
+EJ,nz_2060,Saudi Arabia,gas CCS,2055,1.483539038825
+EJ,nz_2060,Saudi Arabia,gas CCS,2060,1.82739005247
+EJ,nz_2060,Saudi Arabia,hydrogen,2025,0.00190557006
+EJ,nz_2060,Saudi Arabia,hydrogen,2030,0.008282578252000001
+EJ,nz_2060,Saudi Arabia,hydrogen,2035,0.02277696971
+EJ,nz_2060,Saudi Arabia,hydrogen,2040,0.0528049313746
+EJ,nz_2060,Saudi Arabia,hydrogen,2045,0.084077668963
+EJ,nz_2060,Saudi Arabia,hydrogen,2050,0.11708439559
+EJ,nz_2060,Saudi Arabia,hydrogen,2055,0.160044703253
+EJ,nz_2060,Saudi Arabia,hydrogen,2060,0.2148671254437
+EJ,nz_2060,Saudi Arabia,refined liquids,2020,1.328294409930001
+EJ,nz_2060,Saudi Arabia,refined liquids,2025,1.47973930707
+EJ,nz_2060,Saudi Arabia,refined liquids,2030,1.59738191937
+EJ,nz_2060,Saudi Arabia,refined liquids,2035,1.58833793766
+EJ,nz_2060,Saudi Arabia,refined liquids,2040,1.53486845073999
+EJ,nz_2060,Saudi Arabia,refined liquids,2045,1.52349397443
+EJ,nz_2060,Saudi Arabia,refined liquids,2050,1.5574508992
+EJ,nz_2060,Saudi Arabia,refined liquids,2055,1.57220474373
+EJ,nz_2060,Saudi Arabia,refined liquids,2060,1.54353420507999
+EJ,nz_2060,Saudi Arabia,refined liquids CCS,2025,1.11024e-05
+EJ,nz_2060,Saudi Arabia,refined liquids CCS,2030,3.89237e-05
+EJ,nz_2060,Saudi Arabia,refined liquids CCS,2035,0.000101654
+EJ,nz_2060,Saudi Arabia,refined liquids CCS,2040,0.00019051013
+EJ,nz_2060,Saudi Arabia,refined liquids CCS,2045,0.0002817465
+EJ,nz_2060,Saudi Arabia,refined liquids CCS,2050,0.00037850216
+EJ,nz_2060,Saudi Arabia,refined liquids CCS,2055,0.000468502811
+EJ,nz_2060,Saudi Arabia,refined liquids CCS,2060,0.000543992421

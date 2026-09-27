@@ -1,0 +1,8 @@
+"scenario","technology","year","value","share","Units"
+"NZ 2060","ICE",2020,109.36,100,"billion pkm"
+"NZ 2060","ICE",2030,196.697,92.7864,"billion pkm"
+"NZ 2060","ICE",2060,54.3854,16.7307,"billion pkm"
+"NZ 2060","ICE Hybrid",2030,6.01883,2.83922,"billion pkm"
+"NZ 2060","ICE Hybrid",2060,30.3115,9.32483,"billion pkm"
+"NZ 2060","Zero Emission",2030,9.27326,4.37441,"billion pkm"
+"NZ 2060","Zero Emission",2060,240.366,73.9444,"billion pkm"

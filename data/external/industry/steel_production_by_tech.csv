@@ -1,0 +1,73 @@
+Units,scenario,region,year,technology,value
+Mt,cur_policy,Saudi Arabia,2020,EAF with DRI,0.7697484048377787
+Mt,cur_policy,Saudi Arabia,2025,EAF with DRI,0.7574765752983192
+Mt,cur_policy,Saudi Arabia,2030,EAF with DRI,0.7264775573304924
+Mt,cur_policy,Saudi Arabia,2035,EAF with DRI,0.6984351967598709
+Mt,cur_policy,Saudi Arabia,2040,EAF with DRI,0.6798142367611614
+Mt,cur_policy,Saudi Arabia,2045,EAF with DRI,0.6662761325952881
+Mt,cur_policy,Saudi Arabia,2050,EAF with DRI,0.6530881031027899
+Mt,cur_policy,Saudi Arabia,2055,EAF with DRI,0.6427346245578714
+Mt,cur_policy,Saudi Arabia,2060,EAF with DRI,0.6338351691182773
+Mt,nz_2060,Saudi Arabia,2020,EAF with DRI,0.7694583674378382
+Mt,nz_2060,Saudi Arabia,2025,EAF with DRI,0.7183840064834698
+Mt,nz_2060,Saudi Arabia,2030,EAF with DRI,0.6332279871400178
+Mt,nz_2060,Saudi Arabia,2035,EAF with DRI,0.4872185456345505
+Mt,nz_2060,Saudi Arabia,2040,EAF with DRI,0.3308141001888061
+Mt,nz_2060,Saudi Arabia,2045,EAF with DRI,0.2188223037647654
+Mt,nz_2060,Saudi Arabia,2050,EAF with DRI,0.1539651342836231
+Mt,nz_2060,Saudi Arabia,2055,EAF with DRI,0.124035392179213
+Mt,nz_2060,Saudi Arabia,2060,EAF with DRI,0.1041468747449416
+Mt,cur_policy,Saudi Arabia,2020,EAF with DRI CCS,0
+Mt,cur_policy,Saudi Arabia,2025,EAF with DRI CCS,0
+Mt,cur_policy,Saudi Arabia,2030,EAF with DRI CCS,0
+Mt,cur_policy,Saudi Arabia,2035,EAF with DRI CCS,0
+Mt,cur_policy,Saudi Arabia,2040,EAF with DRI CCS,0
+Mt,cur_policy,Saudi Arabia,2045,EAF with DRI CCS,0
+Mt,cur_policy,Saudi Arabia,2050,EAF with DRI CCS,0
+Mt,cur_policy,Saudi Arabia,2055,EAF with DRI CCS,0
+Mt,cur_policy,Saudi Arabia,2060,EAF with DRI CCS,0
+Mt,nz_2060,Saudi Arabia,2020,EAF with DRI CCS,0
+Mt,nz_2060,Saudi Arabia,2025,EAF with DRI CCS,0.03952222516355628
+Mt,nz_2060,Saudi Arabia,2030,EAF with DRI CCS,0.09772103410906871
+Mt,nz_2060,Saudi Arabia,2035,EAF with DRI CCS,0.2115365697573872
+Mt,nz_2060,Saudi Arabia,2040,EAF with DRI CCS,0.3265797325391657
+Mt,nz_2060,Saudi Arabia,2045,EAF with DRI CCS,0.410324125334773
+Mt,nz_2060,Saudi Arabia,2050,EAF with DRI CCS,0.4576272140137955
+Mt,nz_2060,Saudi Arabia,2055,EAF with DRI CCS,0.4726273380828815
+Mt,nz_2060,Saudi Arabia,2060,EAF with DRI CCS,0.4737568558722473
+Mt,cur_policy,Saudi Arabia,2020,EAF with scrap,0.2302515951622212
+Mt,cur_policy,Saudi Arabia,2025,EAF with scrap,0.235230251613257
+Mt,cur_policy,Saudi Arabia,2030,EAF with scrap,0.2485575841672791
+Mt,cur_policy,Saudi Arabia,2035,EAF with scrap,0.2609903672602634
+Mt,cur_policy,Saudi Arabia,2040,EAF with scrap,0.2681841474671104
+Mt,cur_policy,Saudi Arabia,2045,EAF with scrap,0.2717669698255955
+Mt,cur_policy,Saudi Arabia,2050,EAF with scrap,0.2732306700814581
+Mt,cur_policy,Saudi Arabia,2055,EAF with scrap,0.274147353500924
+Mt,cur_policy,Saudi Arabia,2060,EAF with scrap,0.2752406697717752
+Mt,nz_2060,Saudi Arabia,2020,EAF with scrap,0.2305416325621618
+Mt,nz_2060,Saudi Arabia,2025,EAF with scrap,0.2358817364408569
+Mt,nz_2060,Saudi Arabia,2030,EAF with scrap,0.2494015227461817
+Mt,nz_2060,Saudi Arabia,2035,EAF with scrap,0.2682321040607236
+Mt,nz_2060,Saudi Arabia,2040,EAF with scrap,0.2956737813865529
+Mt,nz_2060,Saudi Arabia,2045,EAF with scrap,0.3130940479728922
+Mt,nz_2060,Saudi Arabia,2050,EAF with scrap,0.3206868627127978
+Mt,nz_2060,Saudi Arabia,2055,EAF with scrap,0.3265599901270858
+Mt,nz_2060,Saudi Arabia,2060,EAF with scrap,0.3342587101359655
+Mt,cur_policy,Saudi Arabia,2020,Hydrogen-based DRI,0
+Mt,cur_policy,Saudi Arabia,2025,Hydrogen-based DRI,0.00729317308842381
+Mt,cur_policy,Saudi Arabia,2030,Hydrogen-based DRI,0.02496485850222856
+Mt,cur_policy,Saudi Arabia,2035,Hydrogen-based DRI,0.04057443597986581
+Mt,cur_policy,Saudi Arabia,2040,Hydrogen-based DRI,0.05200161577172834
+Mt,cur_policy,Saudi Arabia,2045,Hydrogen-based DRI,0.06195689757911638
+Mt,cur_policy,Saudi Arabia,2050,Hydrogen-based DRI,0.07368122681575211
+Mt,cur_policy,Saudi Arabia,2055,Hydrogen-based DRI,0.08311802194120455
+Mt,cur_policy,Saudi Arabia,2060,Hydrogen-based DRI,0.09092416110994735
+Mt,nz_2060,Saudi Arabia,2020,Hydrogen-based DRI,0
+Mt,nz_2060,Saudi Arabia,2025,Hydrogen-based DRI,0.006212031912116875
+Mt,nz_2060,Saudi Arabia,2030,Hydrogen-based DRI,0.01964945600473184
+Mt,nz_2060,Saudi Arabia,2035,Hydrogen-based DRI,0.03301278054733874
+Mt,nz_2060,Saudi Arabia,2040,Hydrogen-based DRI,0.04693238588547513
+Mt,nz_2060,Saudi Arabia,2045,Hydrogen-based DRI,0.05775952292756955
+Mt,nz_2060,Saudi Arabia,2050,Hydrogen-based DRI,0.06772078898978336
+Mt,nz_2060,Saudi Arabia,2055,Hydrogen-based DRI,0.07677727961081961
+Mt,nz_2060,Saudi Arabia,2060,Hydrogen-based DRI,0.08783755924684553

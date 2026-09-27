@@ -1,0 +1,37 @@
+Units,scenario,region,sector,subsector,year,technology,value
+Mt,cur_policy,Saudi Arabia,cement,cement,2020,cement,1
+Mt,cur_policy,Saudi Arabia,cement,cement,2025,cement,1
+Mt,cur_policy,Saudi Arabia,cement,cement,2030,cement,1
+Mt,cur_policy,Saudi Arabia,cement,cement,2035,cement,1
+Mt,cur_policy,Saudi Arabia,cement,cement,2040,cement,1
+Mt,cur_policy,Saudi Arabia,cement,cement,2045,cement,1
+Mt,cur_policy,Saudi Arabia,cement,cement,2050,cement,1
+Mt,cur_policy,Saudi Arabia,cement,cement,2055,cement,1
+Mt,cur_policy,Saudi Arabia,cement,cement,2060,cement,1
+Mt,nz_2060,Saudi Arabia,cement,cement,2020,cement,1
+Mt,nz_2060,Saudi Arabia,cement,cement,2025,cement,1
+Mt,nz_2060,Saudi Arabia,cement,cement,2030,cement,0.9991472228851415
+Mt,nz_2060,Saudi Arabia,cement,cement,2035,cement,0.8984625123481133
+Mt,nz_2060,Saudi Arabia,cement,cement,2040,cement,0.5216288097883609
+Mt,nz_2060,Saudi Arabia,cement,cement,2045,cement,0.3141860027012601
+Mt,nz_2060,Saudi Arabia,cement,cement,2050,cement,0.1913307768910437
+Mt,nz_2060,Saudi Arabia,cement,cement,2055,cement,0.09352049787455224
+Mt,nz_2060,Saudi Arabia,cement,cement,2060,cement,0.04238616417875242
+Mt,cur_policy,Saudi Arabia,cement,cement,2020,cement CCS,0
+Mt,cur_policy,Saudi Arabia,cement,cement,2025,cement CCS,0
+Mt,cur_policy,Saudi Arabia,cement,cement,2030,cement CCS,0
+Mt,cur_policy,Saudi Arabia,cement,cement,2035,cement CCS,0
+Mt,cur_policy,Saudi Arabia,cement,cement,2040,cement CCS,0
+Mt,cur_policy,Saudi Arabia,cement,cement,2045,cement CCS,0
+Mt,cur_policy,Saudi Arabia,cement,cement,2050,cement CCS,0
+Mt,cur_policy,Saudi Arabia,cement,cement,2055,cement CCS,0
+Mt,cur_policy,Saudi Arabia,cement,cement,2060,cement CCS,0
+Mt,nz_2060,Saudi Arabia,cement,cement,2020,cement CCS,0
+Mt,nz_2060,Saudi Arabia,cement,cement,2025,cement CCS,0
+Mt,nz_2060,Saudi Arabia,cement,cement,2030,cement CCS,0.0008527771148584743
+Mt,nz_2060,Saudi Arabia,cement,cement,2035,cement CCS,0.1015374876518867
+Mt,nz_2060,Saudi Arabia,cement,cement,2040,cement CCS,0.4783711902116392
+Mt,nz_2060,Saudi Arabia,cement,cement,2045,cement CCS,0.6858139972987399
+Mt,nz_2060,Saudi Arabia,cement,cement,2050,cement CCS,0.8086692231089563
+Mt,nz_2060,Saudi Arabia,cement,cement,2055,cement CCS,0.9064795021254477
+Mt,nz_2060,Saudi Arabia,cement,cement,2060,cement CCS,0.9576138358212476

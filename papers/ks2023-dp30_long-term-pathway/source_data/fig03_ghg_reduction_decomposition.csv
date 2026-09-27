@@ -1,0 +1,24 @@
+"group","component","value_MtCO2eq","ymin","ymax"
+"Emissions in 2015","CO2 Emissions",564.978,0,564.978
+"Emissions in 2015","Other GHG Emissions",158.591,564.978,723.569
+"Emissions in 2060","CO2 Emissions",520.857,723.569,1244.43
+"Emissions in 2060","Other GHG Emissions",101.123,1244.43,1345.55
+"Power","Gas with CCS",82.3248,1263.22,1345.55
+"Power","Renewables",140.365,1122.86,1263.22
+"Buildings","Demand Reduction",54.9874,1067.87,1122.86
+"Buildings","Fuel Switch",4.41997,1063.45,1067.87
+"Industry","Fertilizers",4.13486,1059.32,1063.45
+"Industry","Iron & Steel",14.0091,1045.31,1059.32
+"Industry","Petrochemicals",56.3552,988.952,1045.31
+"Industry","Cement",41.4232,947.529,988.952
+"Industry","Other Industries",52.9244,894.604,947.529
+"Transport","Hydrogen",8.5726,886.032,894.604
+"Transport","Electrification",77.5251,808.506,886.032
+"Transport","Fuel Efficiency",81.241,727.265,808.506
+"Transport","Mode Shift & Demand Reduction",135.798,591.468,727.265
+"LUC","LUC",4.05971,587.408,591.468
+"Other GHGs","N2O",8.34671,579.061,587.408
+"Other GHGs","CH4",24.1452,554.916,579.061
+"Other GHGs","F-Gases",131.47,423.447,554.916
+"Resource Production","Resource Production",51.6691,371.778,423.447
+"CDR","CDR",371.444,0,371.444

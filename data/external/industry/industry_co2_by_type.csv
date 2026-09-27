@@ -1,0 +1,20 @@
+Units,scenario_year,region,year,value,sector
+MtCO2,2020,Saudi Arabia,2020,79.60860969,Other industry
+MtCO2,2060 (Current Policy),Saudi Arabia,2060,164.0984595,Other industry
+MtCO2,2060 (NZ 2060),Saudi Arabia,2060,116.1562317,Other industry
+MtCO2,2020,Saudi Arabia,2020,37.09948856,Cement
+MtCO2,2060 (Current Policy),Saudi Arabia,2060,52.33148208,Cement
+MtCO2,2020,Saudi Arabia,2020,30.79270341,Chemical
+MtCO2,2060 (Current Policy),Saudi Arabia,2060,73.76178385,Chemical
+MtCO2,2020,Saudi Arabia,2020,7.188157897,Fertilizer
+MtCO2,2060 (Current Policy),Saudi Arabia,2060,4.95657177,Fertilizer
+MtCO2,2020,Saudi Arabia,2020,18.70187,Refining
+MtCO2,2060 (Current Policy),Saudi Arabia,2060,30.99972406,Refining
+MtCO2,2020,Saudi Arabia,2020,7.979406561,Iron and Steel
+MtCO2,2060 (Current Policy),Saudi Arabia,2060,21.18056584,Iron and Steel
+MtCO2,2060 (NZ 2060),Saudi Arabia,2060,12.33489447,Cement
+MtCO2,2060 (NZ 2060),Saudi Arabia,2060,6.798113853,Chemical
+MtCO2,2060 (NZ 2060),Saudi Arabia,2060,0.720146121,Fertilizer
+MtCO2,2060 (NZ 2060),Saudi Arabia,2060,3.161636025,Heat (DAC)
+MtCO2,2060 (NZ 2060),Saudi Arabia,2060,20.20144108,Refining
+MtCO2,2060 (NZ 2060),Saudi Arabia,2060,4.973268504,Iron and Steel

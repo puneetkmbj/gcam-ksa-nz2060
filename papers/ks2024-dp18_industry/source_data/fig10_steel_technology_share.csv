@@ -1,0 +1,73 @@
+"scenario","technology","year","value","share"
+"Current Policy","EAF with DRI",2020,0.769748,76.9748
+"Current Policy","EAF with DRI",2025,0.757477,75.7477
+"Current Policy","EAF with DRI",2030,0.726478,72.6478
+"Current Policy","EAF with DRI",2035,0.698435,69.8435
+"Current Policy","EAF with DRI",2040,0.679814,67.9814
+"Current Policy","EAF with DRI",2045,0.666276,66.6276
+"Current Policy","EAF with DRI",2050,0.653088,65.3088
+"Current Policy","EAF with DRI",2055,0.642735,64.2735
+"Current Policy","EAF with DRI",2060,0.633835,63.3835
+"Current Policy","EAF with DRI (Hydrogen-based)",2020,0,0
+"Current Policy","EAF with DRI (Hydrogen-based)",2025,0.00729317,0.729317
+"Current Policy","EAF with DRI (Hydrogen-based)",2030,0.0249649,2.49649
+"Current Policy","EAF with DRI (Hydrogen-based)",2035,0.0405744,4.05744
+"Current Policy","EAF with DRI (Hydrogen-based)",2040,0.0520016,5.20016
+"Current Policy","EAF with DRI (Hydrogen-based)",2045,0.0619569,6.19569
+"Current Policy","EAF with DRI (Hydrogen-based)",2050,0.0736812,7.36812
+"Current Policy","EAF with DRI (Hydrogen-based)",2055,0.083118,8.3118
+"Current Policy","EAF with DRI (Hydrogen-based)",2060,0.0909242,9.09242
+"Current Policy","EAF with DRI (w/CCS)",2020,0,0
+"Current Policy","EAF with DRI (w/CCS)",2025,0,0
+"Current Policy","EAF with DRI (w/CCS)",2030,0,0
+"Current Policy","EAF with DRI (w/CCS)",2035,0,0
+"Current Policy","EAF with DRI (w/CCS)",2040,0,0
+"Current Policy","EAF with DRI (w/CCS)",2045,0,0
+"Current Policy","EAF with DRI (w/CCS)",2050,0,0
+"Current Policy","EAF with DRI (w/CCS)",2055,0,0
+"Current Policy","EAF with DRI (w/CCS)",2060,0,0
+"Current Policy","EAF with scrap",2020,0.230252,23.0252
+"Current Policy","EAF with scrap",2025,0.23523,23.523
+"Current Policy","EAF with scrap",2030,0.248558,24.8558
+"Current Policy","EAF with scrap",2035,0.26099,26.099
+"Current Policy","EAF with scrap",2040,0.268184,26.8184
+"Current Policy","EAF with scrap",2045,0.271767,27.1767
+"Current Policy","EAF with scrap",2050,0.273231,27.3231
+"Current Policy","EAF with scrap",2055,0.274147,27.4147
+"Current Policy","EAF with scrap",2060,0.275241,27.5241
+"NZ 2060","EAF with DRI",2020,0.769458,76.9458
+"NZ 2060","EAF with DRI",2025,0.718384,71.8384
+"NZ 2060","EAF with DRI",2030,0.633228,63.3228
+"NZ 2060","EAF with DRI",2035,0.487219,48.7219
+"NZ 2060","EAF with DRI",2040,0.330814,33.0814
+"NZ 2060","EAF with DRI",2045,0.218822,21.8822
+"NZ 2060","EAF with DRI",2050,0.153965,15.3965
+"NZ 2060","EAF with DRI",2055,0.124035,12.4035
+"NZ 2060","EAF with DRI",2060,0.104147,10.4147
+"NZ 2060","EAF with DRI (Hydrogen-based)",2020,0,0
+"NZ 2060","EAF with DRI (Hydrogen-based)",2025,0.00621203,0.621203
+"NZ 2060","EAF with DRI (Hydrogen-based)",2030,0.0196495,1.96495
+"NZ 2060","EAF with DRI (Hydrogen-based)",2035,0.0330128,3.30128
+"NZ 2060","EAF with DRI (Hydrogen-based)",2040,0.0469324,4.69324
+"NZ 2060","EAF with DRI (Hydrogen-based)",2045,0.0577595,5.77595
+"NZ 2060","EAF with DRI (Hydrogen-based)",2050,0.0677208,6.77208
+"NZ 2060","EAF with DRI (Hydrogen-based)",2055,0.0767773,7.67773
+"NZ 2060","EAF with DRI (Hydrogen-based)",2060,0.0878376,8.78376
+"NZ 2060","EAF with DRI (w/CCS)",2020,0,0
+"NZ 2060","EAF with DRI (w/CCS)",2025,0.0395222,3.95222
+"NZ 2060","EAF with DRI (w/CCS)",2030,0.097721,9.7721
+"NZ 2060","EAF with DRI (w/CCS)",2035,0.211537,21.1537
+"NZ 2060","EAF with DRI (w/CCS)",2040,0.32658,32.658
+"NZ 2060","EAF with DRI (w/CCS)",2045,0.410324,41.0324
+"NZ 2060","EAF with DRI (w/CCS)",2050,0.457627,45.7627
+"NZ 2060","EAF with DRI (w/CCS)",2055,0.472627,47.2627
+"NZ 2060","EAF with DRI (w/CCS)",2060,0.473757,47.3757
+"NZ 2060","EAF with scrap",2020,0.230542,23.0542
+"NZ 2060","EAF with scrap",2025,0.235882,23.5882
+"NZ 2060","EAF with scrap",2030,0.249402,24.9402
+"NZ 2060","EAF with scrap",2035,0.268232,26.8232
+"NZ 2060","EAF with scrap",2040,0.295674,29.5674
+"NZ 2060","EAF with scrap",2045,0.313094,31.3094
+"NZ 2060","EAF with scrap",2050,0.320687,32.0687
+"NZ 2060","EAF with scrap",2055,0.32656,32.656
+"NZ 2060","EAF with scrap",2060,0.334259,33.4259

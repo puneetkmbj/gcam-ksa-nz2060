@@ -1,0 +1,24 @@
+group,component,value_MtCO2eq
+Emissions in 2015,CO2 Emissions,564.9783106529487
+Emissions in 2015,Other GHG Emissions,158.5907176924364
+Emissions in 2060,CO2 Emissions,520.8567134486157
+Emissions in 2060,Other GHG Emissions,101.12271460554362
+Power,Gas with CCS,82.32477776233333
+Power,Renewables,140.36531832497644
+Buildings,Demand Reduction,54.98736456799392
+Buildings,Fuel Switch,4.419968619406205
+Industry,Fertilizers,4.134864656266666
+Industry,Iron & Steel,14.009079333333332
+Industry,Petrochemicals,56.35524327399996
+Industry,Cement,41.42324271317056
+Industry,Other Industries,52.9243932249714
+Transport,Hydrogen,8.572602273471391
+Transport,Electrification,77.52511193921352
+Transport,Fuel Efficiency,81.24102827015227
+Transport,Mode Shift & Demand Reduction,135.79756573821672
+LUC,LUC,4.059712497552397
+Other GHGs,N2O,8.34670903659952
+Other GHGs,CH4,24.14521351306132
+Other GHGs,F-Gases,131.46960674400003
+Resource Production,Resource Production,51.669071428
+CDR,CDR,371.44438572724266

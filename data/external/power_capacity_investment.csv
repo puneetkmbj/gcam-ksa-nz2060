@@ -1,0 +1,57 @@
+scenario,year,type,technology,value,units
+NZ 2060,2020-2030,investment,Gas,23.78384726,billion 2020 USD
+NZ 2060,2020-2030,investment,Gas_CCS,0,billion 2020 USD
+NZ 2060,2020-2030,investment,PV,37.70617157,billion 2020 USD
+NZ 2060,2020-2030,investment,Storage,0.173475573,billion 2020 USD
+NZ 2060,2020-2030,investment,Wind,3.533700362,billion 2020 USD
+NZ 2060,2020-2030,investment,Geothermal,0.073948118,billion 2020 USD
+NZ 2060,2020-2030,investment,Nuclear,0.006783304,billion 2020 USD
+NZ 2060,2030-2060,investment,Gas,1.147674578,billion 2020 USD
+NZ 2060,2030-2060,investment,Gas_CCS,83.65327276,billion 2020 USD
+NZ 2060,2030-2060,investment,PV,363.4415144,billion 2020 USD
+NZ 2060,2030-2060,investment,Storage,13.28795437,billion 2020 USD
+NZ 2060,2030-2060,investment,Wind,17.60141762,billion 2020 USD
+NZ 2060,2030-2060,investment,Geothermal,2.875450475,billion 2020 USD
+NZ 2060,2030-2060,investment,Nuclear,3.85686284,billion 2020 USD
+Current Policies,2020-2030,investment,Gas,23.78384726,billion 2020 USD
+Current Policies,2020-2030,investment,Gas_CCS,0,billion 2020 USD
+Current Policies,2020-2030,investment,PV,37.70617157,billion 2020 USD
+Current Policies,2020-2030,investment,Storage,0.173475573,billion 2020 USD
+Current Policies,2020-2030,investment,Wind,3.533700362,billion 2020 USD
+Current Policies,2020-2030,investment,Geothermal,0.073948118,billion 2020 USD
+Current Policies,2020-2030,investment,Nuclear,0.006783304,billion 2020 USD
+Current Policies,2030-2060,investment,Gas,59.69785937,billion 2020 USD
+Current Policies,2030-2060,investment,Gas_CCS,0,billion 2020 USD
+Current Policies,2030-2060,investment,PV,50.50926909,billion 2020 USD
+Current Policies,2030-2060,investment,Storage,1.694658549,billion 2020 USD
+Current Policies,2030-2060,investment,Wind,2.844225182,billion 2020 USD
+Current Policies,2030-2060,investment,Geothermal,0.537817213,billion 2020 USD
+Current Policies,2030-2060,investment,Nuclear,0.508016388,billion 2020 USD
+NZ 2060,2030,cumulative_capacity,Gas,53.55244554,GW
+NZ 2060,2030,cumulative_capacity,Gas_CCS,0.043472755,GW
+NZ 2060,2030,cumulative_capacity,PV,46.5896338,GW
+NZ 2060,2030,cumulative_capacity,Storage,0.199268767,GW
+NZ 2060,2030,cumulative_capacity,Wind,3.338641749,GW
+NZ 2060,2030,cumulative_capacity,Geothermal,0.049325859,GW
+NZ 2060,2030,cumulative_capacity,Nuclear,0.001103096,GW
+NZ 2060,2060,cumulative_capacity,Gas,0.061455891,GW
+NZ 2060,2060,cumulative_capacity,Gas_CCS,56.56555768,GW
+NZ 2060,2060,cumulative_capacity,PV,519.5039671,GW
+NZ 2060,2060,cumulative_capacity,Storage,15.1188091,GW
+NZ 2060,2060,cumulative_capacity,Wind,18.82670869,GW
+NZ 2060,2060,cumulative_capacity,Geothermal,0.416829839,GW
+NZ 2060,2060,cumulative_capacity,Nuclear,0.508248476,GW
+Current Policies,2030,cumulative_capacity,Gas,53.55244554,GW
+Current Policies,2030,cumulative_capacity,Gas_CCS,0,GW
+Current Policies,2030,cumulative_capacity,PV,46.5896338,GW
+Current Policies,2030,cumulative_capacity,Storage,0.15515885,GW
+Current Policies,2030,cumulative_capacity,Wind,3.338641749,GW
+Current Policies,2030,cumulative_capacity,Geothermal,0.03566849,GW
+Current Policies,2030,cumulative_capacity,Nuclear,0.000863261,GW
+Current Policies,2060,cumulative_capacity,Gas,97.58877489,GW
+Current Policies,2060,cumulative_capacity,Gas_CCS,0,GW
+Current Policies,2060,cumulative_capacity,PV,69.12723694,GW
+Current Policies,2060,cumulative_capacity,Storage,1.812980441,GW
+Current Policies,2060,cumulative_capacity,Wind,2.989599109,GW
+Current Policies,2060,cumulative_capacity,Geothermal,0.134138403,GW
+Current Policies,2060,cumulative_capacity,Nuclear,0.060857129,GW

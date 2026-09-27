@@ -1,0 +1,17 @@
+Units,scenario,region,sector,subsector,technology,input,year,value
+EJ,nz_2060,Saudi Arabia,CO2 removal,dac,electricity,elect_td_ind,2025,2.8661126e-06
+EJ,nz_2060,Saudi Arabia,CO2 removal,dac,electricity,elect_td_ind,2030,1.3973399e-05
+EJ,nz_2060,Saudi Arabia,CO2 removal,dac,electricity,elect_td_ind,2035,0.0005759279574
+EJ,nz_2060,Saudi Arabia,CO2 removal,dac,electricity,elect_td_ind,2040,0.0163147457729
+EJ,nz_2060,Saudi Arabia,CO2 removal,dac,electricity,elect_td_ind,2045,0.1540607741477
+EJ,nz_2060,Saudi Arabia,CO2 removal,dac,electricity,elect_td_ind,2050,0.4034446703384
+EJ,nz_2060,Saudi Arabia,CO2 removal,dac,electricity,elect_td_ind,2055,0.6150764770288
+EJ,nz_2060,Saudi Arabia,CO2 removal,dac,electricity,elect_td_ind,2060,0.8563211546332
+EJ,nz_2060,Saudi Arabia,process heat dac,gas CCS,gas CCS,wholesale gas,2025,1.15816e-05
+EJ,nz_2060,Saudi Arabia,process heat dac,gas CCS,gas CCS,wholesale gas,2030,5.05555e-05
+EJ,nz_2060,Saudi Arabia,process heat dac,gas CCS,gas CCS,wholesale gas,2035,0.00195462
+EJ,nz_2060,Saudi Arabia,process heat dac,gas CCS,gas CCS,wholesale gas,2040,0.0438657
+EJ,nz_2060,Saudi Arabia,process heat dac,gas CCS,gas CCS,wholesale gas,2045,0.315744
+EJ,nz_2060,Saudi Arabia,process heat dac,gas CCS,gas CCS,wholesale gas,2050,0.650945
+EJ,nz_2060,Saudi Arabia,process heat dac,gas CCS,gas CCS,wholesale gas,2055,0.926239
+EJ,nz_2060,Saudi Arabia,process heat dac,gas CCS,gas CCS,wholesale gas,2060,1.22164
