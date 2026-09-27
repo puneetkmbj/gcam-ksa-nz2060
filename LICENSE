@@ -24,5 +24,9 @@ SOFTWARE.
 --------------------------------------------------------------------------------
 Data and figures (data/, papers/*/figures/, papers/*/source_data/)
 
-TO BE CONFIRMED BEFORE PUBLIC RELEASE: licence terms for the KAPSARC scenario
-data (e.g. CC BY 4.0 with attribution to the publications listed in README.md).
+Copyright (c) 2023-2026 King Abdullah Petroleum Studies and Research Center (KAPSARC).
+
+Licensed under the Creative Commons Attribution 4.0 International licence
+(CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+You may share and adapt this material for any purpose, provided you give
+appropriate credit by citing the relevant publication listed in README.md.

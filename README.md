@@ -82,4 +82,4 @@ Please cite the publication whose figures you use (table above) and this reposit
 
 ## Licence
 
-Code: MIT (see `LICENSE`). Data in `data/` and the generated figures: © King Abdullah Petroleum Studies and Research Center (KAPSARC); see the licence terms stated in `LICENSE`.
+Code: MIT. Data in `data/` and the generated figures and source data: © King Abdullah Petroleum Studies and Research Center (KAPSARC), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reuse is permitted with citation of the relevant publication. Full terms in `LICENSE`.
